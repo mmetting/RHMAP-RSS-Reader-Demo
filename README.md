@@ -13,9 +13,9 @@ This is a demo project utilising various capabilities of the Red Hat Mobile Appl
 - [Connector Service](https://github.com/mmetting/RSS-Reader-Demo-RSS-Connector)
 - [Mapping Service](https://github.com/mmetting)
 
-## Usage of the provided repos:
+## Usage of the provided repos
 
-> All instructions are provided in the linked repos.
+> All instructions are provided in the linked repos
 
 1. Start with importing the [Hybrid Ionic based app](https://github.com/mmetting/RSS-Reader-Demo-App-Ionic)
 2. Continue with the [Cloud App](https://github.com/mmetting/RHMAP-RSS-Reader-Demo-Cloud-App)
@@ -23,6 +23,7 @@ This is a demo project utilising various capabilities of the Red Hat Mobile Appl
 4. Provision the [Mapping Service](https://github.com/mmetting)
 5. Configure the usage of the deployed [Mapping Service](https://github.com/mmetting) within the [Cloud App](https://github.com/mmetting/RHMAP-RSS-Reader-Demo-Cloud-App)
 6. Check out your imported [Client App:](https://github.com/mmetting/RSS-Reader-Demo-App-Ionic)
+
 ![alt text](./pictures/iphone_ipad.png "iPhone & iPad")
 
 ## TODO: The story behind this use case: aka Agile Development & DevOps
