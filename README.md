@@ -3,7 +3,7 @@ This is a demo project utilising various capabilities of the Red Hat Mobile Appl
 
 ![alt text](./pictures/project.png "Project on RHMAP")
 
-![alt text](./pictures/ipad.png "iPhone & iPad")
+![alt text](./pictures/iphone_ipad.png "iPhone & iPad")
 
 ## Client apps
 - [Hybrid Ionic based app](https://github.com/mmetting/RSS-Reader-Demo-App-Ionic)
