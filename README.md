@@ -3,7 +3,7 @@ This is a demo project utilising various capabilities of the Red Hat Mobile Appl
 
 ## Client apps
 - [Hybrid Ionic based app](https://github.com/mmetting/RSS-Reader-Demo-App-Ionic)
-- [Native iOS Swift based app](https://github.com/mmetting)
+- Native iOS Swift based app (will be added later)
 
 ## Cloud application
 - [https://github.com/mmetting/RHMAP-RSS-Reader-Demo-Cloud-App](https://github.com/mmetting/RHMAP-RSS-Reader-Demo-Cloud-App)
