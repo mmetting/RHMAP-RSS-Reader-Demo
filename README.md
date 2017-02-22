@@ -31,6 +31,6 @@ This is a demo project utilising various capabilities of the Red Hat Mobile Appl
 1. Create new project
 2. Mock data from server side
 3. Iteratively prototype and implement client (Ionic – Cordova app)
-5. Create a connector to backend system
-6. Transform data from backend system, make this a reusable service
-7. Replace mock data with backend data
+5. Create a connector to back-end system
+6. Transform data from back-end system, make this a reusable service
+7. Replace mock data with back-end data
